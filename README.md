@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Bhumi Patel</h1>
+<h1 align="left">Hi, I'm Bhumi Patel</h1>
 <h3 align="left">An aspiring AI Enthusiast & Web Developer from India 🇮🇳</h3>
 
 - 🔭 I’m currently pursuing **B.Tech in Information Technology** from **CHARUSAT**
