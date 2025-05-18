@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bhumi Patel</h1>
-<h3 align="center">An aspiring AI Enthusiast & Web Developer from India 🇮🇳</h3>
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<h1 align="left">Hi 👋, I'm Bhumi Patel</h1>
+<h3 align="left">An aspiring AI Enthusiast & Web Developer from India 🇮🇳</h3>
 
 - 🔭 I’m currently pursuing **B.Tech in Information Technology** from **CHARUSAT**
 - 🌱 I’m constantly learning and exploring **Machine Learning, Deep Learning, AI, and Full Stack Web Development**
@@ -16,6 +14,7 @@
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
