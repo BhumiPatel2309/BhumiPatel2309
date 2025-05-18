@@ -1,12 +1,56 @@
-- 👋 Hi, I’m @BhumiPatel2309 !
-- 👀 I’m interested in Machine Learning, Deep Learning, Artificial Intelligence and Web Development.
-- 🌱 I’m currently pursuing B.Tech (IT) from Charotar University of Science and Technology (CHARUSAT), Changa, Gujarat, India.
-- 💞️ I’m looking to collaborate on ML and DL projects. 
-- 📫 How to reach me pbhumi2004@gmail.com
+<h1 align="center">Hi 👋, I'm Bhumi Patel</h1>
+<h3 align="center">An aspiring AI Enthusiast & Web Developer from India 🇮🇳</h3>
 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
+- 🔭 I’m currently pursuing **B.Tech in Information Technology** from **CHARUSAT**
+- 🌱 I’m constantly learning and exploring **Machine Learning, Deep Learning, AI, and Full Stack Web Development**
+- 💡 I enjoy building intelligent solutions that make life easier and smarter
+- 🤝 I’m looking to collaborate on **ML/DL Research Projects**
+- 📫 How to reach me: **pbhumi2004@gmail.com**
 
-<!---
-BhumiPatel2309/BhumiPatel2309 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🚀 Tech Stack & Tools:
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BhumiPatel2309&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhumiPatel2309&theme=radical" height="170"/>
+</p>
+
+---
+
+### 🧠 My Interests:
+- 🤖 Artificial Intelligence & Deep Learning
+- 🌐 Full Stack Web Development
+- 🧪 Research & Innovation
+- 📝 Blogging & Knowledge Sharing
+
+---
+
+### 📫 Connect with Me:
+<p>
+  <a href="mailto:pbhumi2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/bhumi-patel2309"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BhumiPatel2309&label=Profile%20Views&color=blueviolet&style=flat" alt="profile-views" />
+</p>
