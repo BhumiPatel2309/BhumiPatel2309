@@ -49,7 +49,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BhumiPatel2309&label=Profile%20Views&color=blueviolet&style=flat" alt="profile-views" />
-</p>
