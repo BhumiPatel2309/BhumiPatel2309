@@ -4,7 +4,7 @@
 - 🔭 I’m currently pursuing **B.Tech in Information Technology** from **CHARUSAT**
 - 🌱 I’m constantly learning and exploring **Machine Learning, Deep Learning, AI, and Full Stack Web Development**
 - 💡 I enjoy building intelligent solutions that make life easier and smarter
-- 🤝 I’m looking to collaborate on **ML/DL Research Projects**
+- 🤝 I’m looking to collaborate on **ML/DL Projects**
 - 📫 How to reach me: **pbhumi2004@gmail.com**
 
 ---
@@ -45,7 +45,7 @@
 ### 📫 Connect with Me:
 <p>
   <a href="mailto:pbhumi2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/bhumi-patel2309"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="http://linkedin.com/in/bhumi-patel-517880302/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
