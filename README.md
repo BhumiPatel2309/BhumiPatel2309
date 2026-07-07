@@ -1,8 +1,8 @@
 <h1 align="left">Hi, I'm Bhumi Patel</h1>
 <h3 align="left">An aspiring AI Enthusiast & Web Developer from India 🇮🇳</h3>
 
-- 🔭 I’m currently pursuing **B.Tech in Information Technology** from **CHARUSAT**
-- 🌱 I’m constantly learning and exploring **Machine Learning, Deep Learning, AI, and Full Stack Web Development**
+- 🔭 I have completed **B.Tech in Information Technology** from **CHARUSAT**
+- 🌱 I’m working as an **AI/ML Engineer** at **Intuitive.AI**
 - 💡 I enjoy building intelligent solutions that make life easier and smarter
 - 🤝 I’m looking to collaborate on **ML/DL Projects**
 - 📫 How to reach me: **pbhumi2004@gmail.com**
